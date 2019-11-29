@@ -1,0 +1,12 @@
+C:\Users\oktag\Desktop\SEDC.Notes\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.deps.json
+C:\Users\oktag\Desktop\SEDC.Notes\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\oktag\Desktop\SEDC.Notes\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.pdb
+C:\Users\oktag\Desktop\SEDC.Notes\DataAccess\bin\Debug\netcoreapp2.1\DataModels.dll
+C:\Users\oktag\Desktop\SEDC.Notes\DataAccess\bin\Debug\netcoreapp2.1\DataModels.pdb
+C:\Users\oktag\Desktop\SEDC.Notes\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\oktag\Desktop\SEDC.Notes\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\oktag\Desktop\SEDC.Notes\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\oktag\Desktop\SEDC.Notes\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfo.cs
+C:\Users\oktag\Desktop\SEDC.Notes\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CopyComplete
+C:\Users\oktag\Desktop\SEDC.Notes\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\oktag\Desktop\SEDC.Notes\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.pdb

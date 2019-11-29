@@ -1,0 +1,12 @@
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.DataAccess\bin\Debug\netcoreapp2.1\Lamazon.DataAccess.deps.json
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.DataAccess\bin\Debug\netcoreapp2.1\Lamazon.DataAccess.dll
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.DataAccess\obj\Debug\netcoreapp2.1\Lamazon.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.DataAccess\obj\Debug\netcoreapp2.1\Lamazon.DataAccess.AssemblyInfoInputs.cache
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.DataAccess\obj\Debug\netcoreapp2.1\Lamazon.DataAccess.AssemblyInfo.cs
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.DataAccess\obj\Debug\netcoreapp2.1\Lamazon.DataAccess.csprojAssemblyReference.cache
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.DataAccess\bin\Debug\netcoreapp2.1\Lamazon.DataAccess.pdb
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.DataAccess\bin\Debug\netcoreapp2.1\Lamazon.Domain.dll
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.DataAccess\bin\Debug\netcoreapp2.1\Lamazon.Domain.pdb
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.DataAccess\obj\Debug\netcoreapp2.1\Lamazon.DataAccess.csproj.CopyComplete
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.DataAccess\obj\Debug\netcoreapp2.1\Lamazon.DataAccess.dll
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.DataAccess\obj\Debug\netcoreapp2.1\Lamazon.DataAccess.pdb

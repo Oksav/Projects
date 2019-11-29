@@ -1,0 +1,16 @@
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.Services\bin\Debug\netcoreapp2.1\Lamazon.Services.deps.json
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.Services\bin\Debug\netcoreapp2.1\Lamazon.Services.dll
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.Services\bin\Debug\netcoreapp2.1\Lamazon.Services.pdb
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.Services\bin\Debug\netcoreapp2.1\Lamazon.DataAccess.dll
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.Services\bin\Debug\netcoreapp2.1\Lamazon.Domain.dll
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.Services\bin\Debug\netcoreapp2.1\Lamazon.DataAccess.pdb
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.Services\bin\Debug\netcoreapp2.1\Lamazon.Domain.pdb
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.Services\obj\Debug\netcoreapp2.1\Lamazon.Services.csprojAssemblyReference.cache
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.Services\obj\Debug\netcoreapp2.1\Lamazon.Services.csproj.CoreCompileInputs.cache
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.Services\obj\Debug\netcoreapp2.1\Lamazon.Services.AssemblyInfoInputs.cache
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.Services\obj\Debug\netcoreapp2.1\Lamazon.Services.AssemblyInfo.cs
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.Services\obj\Debug\netcoreapp2.1\Lamazon.Services.csproj.CopyComplete
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.Services\obj\Debug\netcoreapp2.1\Lamazon.Services.dll
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.Services\obj\Debug\netcoreapp2.1\Lamazon.Services.pdb
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.Services\bin\Debug\netcoreapp2.1\Lamazon.ViewModels.dll
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.Services\bin\Debug\netcoreapp2.1\Lamazon.ViewModels.pdb

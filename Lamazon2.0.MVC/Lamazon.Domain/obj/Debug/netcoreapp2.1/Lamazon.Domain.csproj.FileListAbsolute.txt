@@ -1,0 +1,12 @@
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.Domain\bin\Debug\netcoreapp2.1\Lamazon.Domain.deps.json
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.Domain\bin\Debug\netcoreapp2.1\Lamazon.Domain.dll
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.Domain\obj\Debug\netcoreapp2.1\Lamazon.Domain.csproj.CoreCompileInputs.cache
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.Domain\obj\Debug\netcoreapp2.1\Lamazon.Domain.AssemblyInfoInputs.cache
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.Domain\obj\Debug\netcoreapp2.1\Lamazon.Domain.AssemblyInfo.cs
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.Domain\obj\Debug\netcoreapp2.1\Lamazon.Domain.csprojAssemblyReference.cache
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.Domain\bin\Debug\netcoreapp2.1\Lamazon.Domain.pdb
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.Domain\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.Domain\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.Domain\obj\Debug\netcoreapp2.1\Lamazon.Domain.csproj.CopyComplete
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.Domain\obj\Debug\netcoreapp2.1\Lamazon.Domain.dll
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.Domain\obj\Debug\netcoreapp2.1\Lamazon.Domain.pdb

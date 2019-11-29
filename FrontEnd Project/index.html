@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+        <STYLE>A {text-decoration: none;} </STYLE>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="index.css">
+
+
+    <title>Document</title>
+</head>
+
+<body>
+     <!-- HTML LANDING PAGE START HERE -->
+     <div class="mainDiv" id="main">
+    
+    
+                <!-- Header HTML Login -->
+                
+                <div class="headerContainer">
+                <div class="headerDiv" id="header">
+                    
+                    <div class="image"><img src="Logo.png"></div>
+    
+                    <div class="logInDiv" id="logIn">
+                        <input type="text" name="email" id="LogEmail" placeholder="E-mail">
+                        <input type="password" name="password" id="LogPassword" placeholder="Password">
+                        <button type="button" id="LogInBtn">Login</button>
+                    </div>
+                </div>
+            </div>
+                <!-- Header HTML END HERE -->
+    
+                    <!-- HTML Registration DIV -->
+    
+    
+                    <div class="registrationDiv" id="registration">
+                            <div class="RegistarText">
+                                <h2>Create New Account</h2>
+                            </div>
+    
+                     <div class="registrationContainer">      
+                            <div class="fullNameDiv" id="fullName">
+    
+                                <input type="text" name="first name" placeholder="First name" required="required"
+                                    id="FirstName" />
+                                <input type="text" name="last name" placeholder="Last Name" required="required"
+                                    id="LastName" />
+                            </div>
+    
+    
+                            <div class="mailAndPasswordDiv" id="mailAndPassword">
+    
+                                <input type="text" name="moborem" placeholder="Email" required="required" id="Mail"
+                                    class="mailInput" />
+    
+                                <input type="password" name="newpassword" placeholder="Password" required="required"
+                                    id="password" class="passwordInput" />
+    
+                                    <input type="password" name="newpassword" placeholder="Confirm Password"
+                                        required="required" id="ConfPass" class="passConfInput" />
+                            </div>
+    
+                            <div class="DayOfBirthAndGenderDiv" id="DayOfBirthAndGender">
+                                    <h3>Date Of Birth</h3>
+                                    <div class="dobInputsDiv" id="dobInputs">
+                                           
+                                        <input type="text" placeholder="Day" name="numberOfDays" id="dobDay" class="dobDay"><span>/</span>
+    
+    
+                                        <input type="text" placeholder="Month" name="mouthOfBirth" id="dobmouth"
+                                            class="mouthOfBirth"><span>/</span>
+    
+                                        <input type="text" placeholder="Year" name="yearOfBirth" id="dobyear" class="yearOfBirth">
+                                    </div>
+                                
+                                   
+                                <div class="genderDiv" id="gender">
+                                        <h3>Gender </h3> 
+                                    <div class="genderLabelsDiv" id="genderLabel">
+                                        <label for="male">Male
+                                            <input type="radio" name="gender" id="male" value="Male">
+                                        </label>
+                                        <label for="female">Female
+                                            <input type="radio" name="gender" id="female" value="Female">
+                                        </label>
+                                    </div>
+                                    <button class="regBtn" id="regUserBtn">Register Now</button>
+                                </div>
+                            </div>
+                        
+                        </div>      
+                    </div>
+
+                    <div class="Info">
+                    <div class="ContactUs"><a href="ContactUs/index.html"><img src="phone.png" alt="Contact Us"></a></div>
+                    <div class="AboutUs"><a href="AboutUs/index.html"><img src="aboutus.png"></a></div>
+                    <div class="PrivacyP"><a href="PrivacyPolicy/index.html"><img src="PrivacyPolicy.png"></a></div>
+                    </div>
+            </div>
+            <!-- HTML LANDING PAGE REGISTRATIONDIV END HERE -->
+
+         
+    
+    <!-- HTML LANDING PAGE END HERE -->
+
+    <!-- PROFILE PAGE HTML START HERE -->
+    <div class='Header' id="PageHeader">
+            <div id='logo'><img src="Logo.png"></div>
+            <div class='HeaderBox' id='home'>Home</div>
+            <div class='HeaderBox' id='username'>Ime Prezime</div>
+            <div class='HeaderBox' id='logout'>Log out</div>
+        </div>
+
+    <div class="bodyContainerDiv" id="bodyContainer">
+
+
+            <div class="profilePageMainDiv" id="profilePageMain">
+
+                <!-- BODY SECTION START -->
+
+                <div class="profileBodyDiv" id="profileBody">
+                        <div class="imgDiv">
+                            <img id="profilePhotoImg"  alt="ProfilePhoto">
+                          </div>
+
+                    <div class="profileInfoDiv" id="profileInfo">
+
+                        <div class="userFirstAndLastNameDiv" id="userFirstAndLastName">
+                            <h4 id="userFirstNameID">FIRST and last NAME</h4>
+                        </div>
+
+                        <div class="userRegionAndBirthDayDiv" id="userRegionAndBirthDayDiv">
+                            <h4 id="userBirthdayID">BOD</h4>
+                            <h4 id="userRegionID">REGION</h4>
+                        </div>
+
+                        <div class="userGenderAndMailDiv" id="userGenderAndMail">
+                            <h4 id="userGenderID">Gender</h4>
+                            <h4 id="userEmailAddressID">MAIL</h4>
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+
+                <div class="displayEventsDiv" id="displayEvents">
+
+                    <div class="shortCutDiv" id="shortCut">
+                        <button id="CreateEventBtn">Create Event</button>
+                        <button id="CancelEvent">Cancel Event</button>
+                        <button id="userCreatedEvents">Created Events</button>
+                        <button id="userGoingToEvents">Going To Events</button>
+                    </div>
+
+                    <div class="showUserEventsDiv" id="showUserEvents">
+                            <div class="showUserEventsPartOneDiv" id="showUserEventsPartOne">
+                                <h4 class="eventNameDiv" id="eventName">Event Name</h4>
+                                <h4 class="eventDiscriptionDiv" id="eventDiscription">Event Description</h4>
+                                <h4 class="eventBegginingDiv" id="eventBeggining">Start Date</h4>
+                                <h4 class="eventEndingDiv" id="eventEnding">End Date</h4>
+                            </div>
+
+                            <div class="showUserEventsPartTwoDiv" id="showUserEventsPartTwo">
+                               <div></div> <h4 class="eventLocationDiv" id="eventLocation">Events Location</h4>
+                                <h4 class="eventDepartureDiv" id="eventDeparture">Departure</h4>
+                                <h4 class="eventCreatorDiv" id="eventCreator">Creator</h4>
+                                <h4 class="openPositionDiv" id="openPosition">Open Position</h4>
+                            </div>
+                            
+                        <div class="someExtraInfoDiv"> 
+                            <h4 id="someExtraInfo"></h4>
+                             </div>
+                        
+                    </div>
+              
+            </div>
+               
+            </div>
+        
+    </div>
+    <!-- PROFILE PAGE HTML END HERE -->
+
+    <!-- VASKO EVENT CREATING DIVS AND BODY START HERE ************ -->
+
+    <div class="EventPageBody" id="mainEventPageBody">
+    
+        <div class='MainContainerForEvents' id="EventPageBodyDiv">
+            <div class='EventCreator' id="EventCreatorDiv">
+                <div class='EventNameDiv'>
+                    <input type='text' id='EventName' placeholder='Event Name' >
+                    <input type='text' id='EventSpots' placeholder='Spots:'>
+                    <button type="submit" id='PublishButton'>Publish</button>
+                </div>
+                <div class='Adress'>
+                    <input type="text" class='AdressInput' id='LocationOfEvent' placeholder="Location of the Event:" maxlength="50" >
+                    <input type="text" class='AdressInput' id='AdressDeparture' placeholder="Adress of Departure:" maxlength="50" >
+                </div>
+    
+                <div class='DescribeDatePublish'>
+                    <textarea maxlength="180" placeholder="Describe your event in 180 characters..." id='EventDescribe' ></textarea>
+                    <div id='dates'>
+                        <div id='date1'>
+                            <p class='fromTill'>From:</p>
+                            <input type='date' id='EventDate1' max='2019-12-31' ></input>
+                        </div>
+                        <div id='date2'>
+                            <p class='fromTill'>Untill:</p>
+                            <input type="date" id='EventDate2' max="2019-12-31" ></input>
+                        </div>
+                    </div>
+    
+                </div>
+    
+            </div>
+    
+    
+            <div id='fuck' class='Events'>
+            <!-- created div from javascript -->
+            </div>
+        </div>
+    </div> 
+
+    <!-- VASKO EVENT CREATING DIVS AND BODY END HERE ************* -->
+
+</body>
+
+
+
+<script src="index.js"></script>
+
+</html>

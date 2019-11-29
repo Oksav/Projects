@@ -1,0 +1,14 @@
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.ViewModels\bin\Debug\netcoreapp2.1\Lamazon.ViewModels.deps.json
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.ViewModels\bin\Debug\netcoreapp2.1\Lamazon.ViewModels.dll
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.ViewModels\bin\Debug\netcoreapp2.1\Lamazon.ViewModels.pdb
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.ViewModels\obj\Debug\netcoreapp2.1\Lamazon.ViewModels.csprojAssemblyReference.cache
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.ViewModels\obj\Debug\netcoreapp2.1\Lamazon.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.ViewModels\obj\Debug\netcoreapp2.1\Lamazon.ViewModels.AssemblyInfoInputs.cache
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.ViewModels\obj\Debug\netcoreapp2.1\Lamazon.ViewModels.AssemblyInfo.cs
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.ViewModels\obj\Debug\netcoreapp2.1\Lamazon.ViewModels.dll
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.ViewModels\obj\Debug\netcoreapp2.1\Lamazon.ViewModels.pdb
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.ViewModels\bin\Debug\netcoreapp2.1\Lamazon.Domain.dll
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.ViewModels\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.ViewModels\bin\Debug\netcoreapp2.1\Lamazon.Domain.pdb
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.ViewModels\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Users\oktag\source\repos\Lamazon2.0\Lamazon.ViewModels\obj\Debug\netcoreapp2.1\Lamazon.ViewModels.csproj.CopyComplete
